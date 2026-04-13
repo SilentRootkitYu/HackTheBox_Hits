@@ -27,4 +27,5 @@ Theater	Primary Function	Key Techniques
 🎯 Web Application Exploitation	Automated & Manual Web Attacks	Advanced SQLi, XSS, SSRF, XXE, JWT attacks, API abuse, parameter pollution.
 🐧 Linux Privilege Escalation	From User to Root	Automated linpeas enhancers, SUID/Capabilities abuse, kernel exploit suggester, cron job hijacking.
 🪟 Active Directory Offense	Kerberos & ACL Attacks	AS-REP roasting, Kerberoasting, ACL abuse, DCSync, Pass-the-Hash, Overpass-the-Hash, SMB relay.
-🔐 Credential & Hash Manipulation	Cracking & Passing	Optimized hashcat rules, token impersonation, NTLM relay, SSH key extraction.
+🔐 Credential & Hash Manipulation	Cracking & Passing	Optimized hashcat rules, token impersonation, NTLM relay, SSH key extraction.<img width="1412" height="960" alt="image" src="https://github.com/user-attachments/assets/10df9ceb-babe-4d3d-84d4-dd2543806308" />
+
